@@ -14,7 +14,7 @@
 
 O Eixo Técnico compõe o grupo **RAITEC — Robótica, Automação, Inteligência Artificial e Tecnologias**, da **Universidade Federal do Ceará (UFC)**.
 
-Atua no desenvolvimento de aplicações tecnológicas reais, integrando eletrônica, programação, modelagem, automação e pesquisa, com foco em sustentabilidade, inovação e impacto social, contribuindo para o uso consciente de recursos, a eficiência tecnológica e impactos positivos para pessoas e comunidades.
+Atua no desenvolvimento de aplicações tecnológicas reais, integrando eletrônica, programação, modelagem, automação e pesquisa, com foco em sustentabilidade, contribuindo para o uso consciente de recursos, a eficiência tecnológica e impactos positivos para pessoas e comunidades.
 
 ---
 
