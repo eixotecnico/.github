@@ -53,6 +53,7 @@ Ser referência no desenvolvimento de tecnologias sustentáveis dentro da Univer
 ### 🌱 Regador Automático
 
 <p>Promover a integração entre saberes acadêmicos e conhecimentos tradicionais por meio do desenvolvimento e aplicação de tecnologias de automação voltadas para sistemas sustentáveis de irrigação e piscicultura no Sítio Wopila, em Maracanaú (CE), contribuindo para a valorização da agricultura familiar, o uso consciente da água e o fortalecimento da autonomia tecnológica de comunidades rurais.</p>
+
 ---
 
 ### ♻️ Máquina de Filamento
