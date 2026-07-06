@@ -52,33 +52,18 @@ Ser referência no desenvolvimento de tecnologias sustentáveis dentro da Univer
 
 ### 🌱 Regador Automático
 
-Sistema inteligente de irrigação que integra sensores, Arduino, banco de dados e aplicativo mobile para realizar o monitoramento e a irrigação automática de plantas, reduzindo desperdícios de água.
-
-**Tecnologias**
-
-- Flutter
-- Firebase
-- Arduino
-- IoT
-- Sensores
-
-🔗 https://github.com/eixotecnico/regador-automatico
-
+Promover a integração entre saberes acadêmicos e conhecimentos tradicionais por meio do desenvolvimento e aplicação de tecnologias de automação voltadas para sistemas sustentáveis de irrigação e piscicultura no Sítio Wopila, em Maracanaú (CE), contribuindo para a valorização da agricultura familiar, o uso consciente da água e o fortalecimento da autonomia tecnológica de comunidades rurais.
 ---
 
 ### ♻️ Máquina de Filamento
 
-Projeto voltado para o reaproveitamento de resíduos plásticos através da fabricação de filamentos para impressão 3D, incentivando a economia circular e a redução de desperdícios.
-
-**Status:** Em desenvolvimento.
+O Projeto Máquina de Filamento é uma solução funcional, compacta e acessível para transformar garrafas PET em filamento para impressão 3D, com potencial de aplicação real em contextos de baixa infraestrutura. O sistema combina simplicidade mecânica com um controle eletrônico eficiente, o que permite uma operação fácil e a sua replicação em diferentes regiões. Dessa forma, a iniciativa contribui diretamente para a redução de resíduos plásticos e para a promoção da economia circular.
 
 ---
 
 ### 🤖 Raitor
 
-Assistente inteligente desenvolvido pelo Eixo Técnico.
-
-Mais informações em breve.
+O objetivo do Projeto Raitor (gerador solar), no contexto da ACCS RAITecS, é fornecer acesso à energia elétrica por meio de energia solar para o carregamento de equipamentos de baixa potência. Isso visa atender a necessidades básicas da comunidade de moradores de rua.
 
 ---
 
@@ -98,7 +83,6 @@ Os projetos desenvolvidos pelo Eixo Técnico possuem como objetivo:
 ## 🌳 Nossos Valores
 
 - Sustentabilidade
-- Inovação
 - Colaboração
 - Ciência
 - Tecnologia
