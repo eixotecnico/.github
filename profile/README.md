@@ -1,7 +1,7 @@
 # 🌿 Eixo Técnico
 
 <p align="center">
-  <img src="https://github.com/eixotecnico/eixotecnico/blob/main/images/tecnico.png" width="850" alt="Eixo Técnico Banner">
+  <img src="https://github.com/eixotecnico/eixotecnico/blob/main/images/tecnico.jpeg" width="850" alt="Eixo Técnico Banner">
 </p>
 
 <p align="center">
