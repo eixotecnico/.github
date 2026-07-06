@@ -52,18 +52,18 @@ Ser referência no desenvolvimento de tecnologias sustentáveis dentro da Univer
 
 ### 🌱 Regador Automático
 
-Promover a integração entre saberes acadêmicos e conhecimentos tradicionais por meio do desenvolvimento e aplicação de tecnologias de automação voltadas para sistemas sustentáveis de irrigação e piscicultura no Sítio Wopila, em Maracanaú (CE), contribuindo para a valorização da agricultura familiar, o uso consciente da água e o fortalecimento da autonomia tecnológica de comunidades rurais.
+<p>Promover a integração entre saberes acadêmicos e conhecimentos tradicionais por meio do desenvolvimento e aplicação de tecnologias de automação voltadas para sistemas sustentáveis de irrigação e piscicultura no Sítio Wopila, em Maracanaú (CE), contribuindo para a valorização da agricultura familiar, o uso consciente da água e o fortalecimento da autonomia tecnológica de comunidades rurais.</p>
 ---
 
 ### ♻️ Máquina de Filamento
 
-O Projeto Máquina de Filamento é uma solução funcional, compacta e acessível para transformar garrafas PET em filamento para impressão 3D, com potencial de aplicação real em contextos de baixa infraestrutura. O sistema combina simplicidade mecânica com um controle eletrônico eficiente, o que permite uma operação fácil e a sua replicação em diferentes regiões. Dessa forma, a iniciativa contribui diretamente para a redução de resíduos plásticos e para a promoção da economia circular.
+<p>O Projeto Máquina de Filamento é uma solução funcional, compacta e acessível para transformar garrafas PET em filamento para impressão 3D, com potencial de aplicação real em contextos de baixa infraestrutura. O sistema combina simplicidade mecânica com um controle eletrônico eficiente, o que permite uma operação fácil e a sua replicação em diferentes regiões. Dessa forma, a iniciativa contribui diretamente para a redução de resíduos plásticos e para a promoção da economia circular.</p>
 
 ---
 
 ### 🤖 Raitor
 
-O objetivo do Projeto Raitor (gerador solar), no contexto da ACCS RAITecS, é fornecer acesso à energia elétrica por meio de energia solar para o carregamento de equipamentos de baixa potência. Isso visa atender a necessidades básicas da comunidade de moradores de rua.
+<p>O objetivo do Projeto Raitor (gerador solar), no contexto da ACCS RAITecS, é fornecer acesso à energia elétrica por meio de energia solar para o carregamento de equipamentos de baixa potência. Isso visa atender a necessidades básicas da comunidade de moradores de rua.</p>
 
 ---
 
