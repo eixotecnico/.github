@@ -1,8 +1,7 @@
-```md
 # 🌿 Eixo Técnico
 
 <p align="center">
-  <img src="./images/tecnico.png" width="850" alt="Eixo Técnico Banner">
+  <img src="https://github.com/eixotecnico/eixotecnico/blob/main/images/tecnico.png" width="850" alt="Eixo Técnico Banner">
 </p>
 
 <p align="center">
@@ -123,4 +122,3 @@ Nossa atuação une estudantes de diferentes áreas para transformar ideias em s
 **RAITEC • Universidade Federal do Ceará**
 
 </p>
-```
