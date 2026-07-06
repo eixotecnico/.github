@@ -92,9 +92,9 @@ Os projetos desenvolvidos pelo Eixo Técnico possuem como objetivo:
 
 ---
 
-## 🏛️ Sobre a RAITEC
+## 🏛️ Sobre o RAITEC
 
-O **Eixo Técnico** integra a **RAITEC — Robótica, Automação, Inteligência Artificial e Tecnologias**, grupo da **Universidade Federal do Ceará (UFC)** dedicado ao desenvolvimento de projetos de pesquisa, ensino e extensão.
+O **Eixo Técnico** integra o **RAITEC — Robótica, Automação, Inteligência Artificial e Tecnologias**, grupo da **Universidade Federal do Ceará (UFC)** dedicado ao desenvolvimento de projetos de pesquisa, ensino e extensão.
 
 Nossa atuação une estudantes de diferentes áreas para transformar ideias em soluções reais.
 
